@@ -15,7 +15,7 @@ import pandas as pd
 # In[2]:
 
 
-dataset = pd.read_csv("Diabetes.csv")
+dataset = pd.read_csv("Diabetes_Dataset.csv")
 dataset.head(10)
 
 
